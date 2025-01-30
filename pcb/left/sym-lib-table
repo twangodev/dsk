@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "twangodev")(type "KiCad")(uri "${KIPRJMOD}/../libraries/symbols/twangodev.kicad_sym")(options "")(descr ""))
-  (lib (name "pico-ezmate")(type "KiCad")(uri "${KIPRJMOD}/../libraries/symbols/pico-ezmate.kicad_sym")(options "")(descr ""))
 )
