@@ -1,6 +1,3 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/twangodev/dsk-firmware
-[submodule "pcb/udb-s"]
-	path = pcb/udb-s
-	url = https://github.com/Unified-Daughterboard/UDB-S
