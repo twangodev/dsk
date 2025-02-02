@@ -6,13 +6,15 @@
     <img src=".github/assets/preview.png" alt="Preview" width="50%"/>
   </div>
 
-  <div style="margin-top: 8px;">
-    <img alt="Powered by QMK" src="https://img.shields.io/badge/QMK-333?logo=QMK&label=powered%20by">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/twangodev/dsk">
-  </div>
 
 
 </div>
+
+
+<p align="center">
+  <a href="https://qmk.fm/" target="_blank"><img alt="Powered by QMK" src="https://img.shields.io/badge/QMK-333?logo=QMK&label=powered%20by"/></a>
+  <a href="https://cern-ohl.web.cern.ch/"><img alt="GitHub License" src="https://img.shields.io/github/license/twangodev/dsk"></a>
+</p>
 
 <p align="center">
     The Developer's Split Keyboard (dsk) is an open-source, ergonomic, and customizable keyboard for developers.
