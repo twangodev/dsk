@@ -31,10 +31,10 @@ dsk is a modular split keyboard built for developers, offering both ergonomic fl
 
 The **dsk** project is built around the following core principles:
 
-- **Ergonomic Yet Familiar**: dsk is designed to be ergonomic and comfortable for long typing sessions, while still maintaining a familiar layout for developers.
-- **Compact But Complete**: dsk should minimize the footprint on your desk while providing all the keys you need for development (F-keys, navigation, arrow keys, etc.).
-- **Modular and Customizable**: dsk is designed to be modular, breaking down into smaller components that can be placed in different configurations to suit your needs.
-- **Simple and Accessible**: dsk is designed to be easy to manufacture, assemble, and program, using off-the-shelf components, established open standards, and open-source firmware.
+- Ergonomic and comfortable for long typing sessions, while still maintaining a familiar layout for developers.
+- Should minimize the footprint on your desk while providing all the keys you need for development (F-keys, navigation, arrow keys, etc.).
+- Should be modular, breaking down into smaller components that can be placed in different configurations to suit your needs.
+- Easy to manufacture, assemble, and program, using off-the-shelf components, established open standards, and open-source firmware.
 
 ### Manufacturing
 
