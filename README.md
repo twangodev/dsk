@@ -6,13 +6,15 @@
     <img src=".github/assets/preview.png" alt="Preview" width="50%"/>
   </div>
 
-  <div style="margin-top: 8px;">
-    <img alt="Powered by QMK" src="https://img.shields.io/badge/QMK-333?logo=QMK&label=powered%20by">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/twangodev/dsk">
-  </div>
 
 
 </div>
+
+
+<p align="center">
+  <a href="https://qmk.fm/" target="_blank"><img alt="Powered by QMK" src="https://img.shields.io/badge/QMK-333?logo=QMK&label=powered%20by"/></a>
+  <a href="https://cern-ohl.web.cern.ch/"><img alt="GitHub License" src="https://img.shields.io/github/license/twangodev/dsk"></a>
+</p>
 
 <p align="center">
     The Developer's Split Keyboard (dsk) is an open-source, ergonomic, and customizable keyboard for developers.
@@ -29,10 +31,10 @@ dsk is a modular split keyboard built for developers, offering both ergonomic fl
 
 The **dsk** project is built around the following core principles:
 
-- **Ergonomic Yet Familiar**: dsk is designed to be ergonomic and comfortable for long typing sessions, while still maintaining a familiar layout for developers.
-- **Compact But Complete**: dsk should minimize the footprint on your desk while providing all the keys you need for development (F-keys, navigation, arrow keys, etc.).
-- **Modular and Customizable**: dsk is designed to be modular, breaking down into smaller components that can be placed in different configurations to suit your needs.
-- **Simple and Accessible**: dsk is designed to be easy to manufacture, assemble, and program, using off-the-shelf components, established open standards, and open-source firmware.
+- Ergonomic and comfortable for long typing sessions, while still maintaining a familiar layout for developers.
+- Should minimize the footprint on your desk while providing all the keys you need for development (F-keys, navigation, arrow keys, etc.).
+- Should be modular, breaking down into smaller components that can be placed in different configurations to suit your needs.
+- Easy to manufacture, assemble, and program, using off-the-shelf components, established open standards, and open-source firmware.
 
 ### Manufacturing
 
