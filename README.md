@@ -20,7 +20,7 @@
     The Developer's Split Keyboard (dsk) is an open-source, ergonomic, and customizable keyboard for developers.
 </p>
 
-### About
+## About
 
 dsk is a modular split keyboard built for developers, offering both ergonomic flexibility and a traditional typing experience. It consists of:
 
