@@ -5,11 +5,7 @@
   <div>
     <img src=".github/assets/preview.png" alt="Preview" width="50%"/>
   </div>
-
-
-
 </div>
-
 
 <p align="center">
   <a href="https://qmk.fm/" target="_blank"><img alt="Powered by QMK" src="https://img.shields.io/badge/QMK-333?logo=QMK&label=powered%20by"/></a>
