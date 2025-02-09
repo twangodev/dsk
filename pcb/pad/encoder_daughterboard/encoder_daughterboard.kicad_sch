@@ -2121,7 +2121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:JUSHUO_AFA07-S12FCA-00_1x12-1MP_P1.0mm_Horizontal"
+		(property "Footprint" "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal"
 			(at 220.98 83.82 0)
 			(effects
 				(font
